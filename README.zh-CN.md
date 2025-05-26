@@ -1,3 +1,5 @@
+[English](README.md)|中文
+
 MyKeys v0.1
 ========
 
